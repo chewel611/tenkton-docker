@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.34.1@sha256:1d481e9b728651dd9e3f7bdf5c1ad135b52b516b4c2d631c220431d2d6c98eb4
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.35.0@sha256:f4dc5477599754b42261ce367ab5590ca7c7866f64e5381e894d11e43231c268
 MAINTAINER chewel
